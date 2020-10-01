@@ -1,8 +1,8 @@
 package com.springboot.demo.services;
 
 import com.springboot.demo.exceptions.ApiRequestException;
-import com.springboot.models.AuthenticationRequest;
-import com.springboot.models.AuthenticationResponse;
+import com.springboot.demo.models.AuthenticationRequest;
+import com.springboot.demo.models.AuthenticationResponse;
 
 /**
  * <p>

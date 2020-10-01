@@ -1,4 +1,4 @@
-package com.springboot.models;
+package com.springboot.demo.models;
 
 import java.time.ZonedDateTime;
 import org.springframework.http.HttpStatus;

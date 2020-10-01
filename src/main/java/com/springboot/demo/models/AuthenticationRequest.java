@@ -1,4 +1,4 @@
-package com.springboot.models;
+package com.springboot.demo.models;
 
 /**
  * {@link AuthenticationRequest} represents the structure 

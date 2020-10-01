@@ -5,7 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.springboot.models.ApiException;
+import com.springboot.demo.models.ApiException;
 
 /**
  * {@link ApiExceptionHandler} is used to handle API related errors

@@ -18,10 +18,10 @@ import org.springframework.stereotype.Service;
 import com.springboot.demo.dao.UserDao;
 import com.springboot.demo.entity.User;
 import com.springboot.demo.exceptions.ApiRequestException;
+import com.springboot.demo.models.AuthenticationRequest;
+import com.springboot.demo.models.AuthenticationResponse;
 import com.springboot.demo.services.UserService;
 import com.springboot.demo.utils.JwtUtil;
-import com.springboot.models.AuthenticationRequest;
-import com.springboot.models.AuthenticationResponse;
 
 /**
  * <p>

@@ -1,4 +1,4 @@
-package com.springboot.models;
+package com.springboot.demo.models;
 
 /**
  * {@link AuthenticationResponse} represents the structure of the response

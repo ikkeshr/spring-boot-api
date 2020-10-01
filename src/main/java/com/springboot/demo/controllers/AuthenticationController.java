@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.springboot.demo.models.AuthenticationRequest;
 import com.springboot.demo.services.impl.UserServiceImpl;
-import com.springboot.models.AuthenticationRequest;
 
 /**
  * <p>
